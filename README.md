@@ -1,3 +1,10 @@
+
+<div align="center" > 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Singl&size=29&pause=1000&color=FDBB97&center=true&vCenter=true&random=true&width=435&lines=%E2%9C%A6++%E2%9C%A9+Hello+%E2%98%85+%E2%8B%86+%CB%9A%E2%9C%A6" alt="Typing SVG" /></a>
+
+</div>
+
 # 💫 About Me:
 👨‍💻 B.Tech CSE student passionate about Java, Python, and Data Science.<br>🚀 Student Campus Ambassador at LetsUpgrade.<br>🌐 Exploring Web Development and software engineering.<br>📊 Interested in data-driven solutions and real-world projects.<br>📚 Always learning and building.
 
